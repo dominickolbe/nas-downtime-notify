@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "nas-downtime-notify",
+      "script": "./build/index.js",
+      "watch": false,
+      "env": {
+      }
+    }
+  ]
+}
