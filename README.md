@@ -1,5 +1,5 @@
 # nas-downtime-notify
-> this is a small nodejs application that's notifying me if my local nas went down
+> this is a small nodejs application that's notifying me if my local NAS went down
 
 ### Install node dependencies
 
