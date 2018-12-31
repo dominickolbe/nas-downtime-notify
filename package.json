@@ -1,0 +1,7 @@
+{
+  "name": "nas-downtime-notify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dominic Kolbe <kolbedominic@gmail.com>",
+  "license": "MIT"
+}
